@@ -6,4 +6,4 @@ This space is here to help you and me keep things straight.  Technology moves at
  
 ###  Who Dat?
 
-Speedy is a veteran of the software industry.  I have exited multiple startups, gone through countless corporate M&As, and drove multi-million dollar transformations efforts.  Most products I've built were the result of collaborations with great teams filled with awesome people.  So, let's share and contribute.
+Speedy is a veteran of the software industry.  I have exited multiple startups, gone through countless corporate M&As, and drove multi-million dollar transformation efforts.  Most products I've built were the result of collaborations with great teams filled with awesome people.  So, let's share and contribute.
